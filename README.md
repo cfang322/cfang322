@@ -1,7 +1,11 @@
-  ### 👋 Hi, I’m Yaqi Fang 
-  ### 👀 I’m interested in music, code, and entrepreneurship
-  ### 😄 Pronouns: she/her
-  ### ⚡ Fun fact: I have a dog, 2 cats and a lizard.
+  # 👋 Hi, I’m Yaqi Fang 
+
+  ## About Me
+  - 💻 Software Engineer with over 1000 hours of pair programming and developing experience
+  - 📚 App Academy graduate, trained in using JavaScript, Ruby, SQL, MERN Stack, and more!
+  - 👀 I’m interested in music, code, and entrepreneurship
+  - 🎀 Pronouns: she/her
+  - 🤩 Fun fact: I have a dog, 2 cats and a lizard.
 
 <div align="center">
   
