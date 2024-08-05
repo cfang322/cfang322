@@ -1,7 +1,5 @@
-  ### 👋 Hi, I’m Yaqi Fang @cfang322
+  ### 👋 Hi, I’m Yaqi Fang 
   ### 👀 I’m interested in music, code, and entrepreneurship
-  ### 🌱 I’m currently learning how to build a portfolio.
-  ### 💞️ I’m looking to collaborate on a project using next.js with my fellow cohort mate.
   ### 😄 Pronouns: she/her
   ### ⚡ Fun fact: I have a dog, 2 cats and a lizard.
 
