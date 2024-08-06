@@ -7,10 +7,10 @@
   - 🎀 Pronouns: she/her
   - 🤩 Fun fact: I have a dog, 2 cats and a lizard.
 
-<div align="center">
   
   ## How to Reach Me     
 
+<div align="center">
   <a href="mailto:cfang322@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -29,9 +29,9 @@
 <br>
 <br>
 
-<div align="center">
   
   ## My Activities
+<div align="center">
   
   <a href="https://github.com/Dominic5591">
     <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfang322&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
@@ -41,9 +41,9 @@
 <br>
 <br>
 
-<div align="center">
 
   ## My Tech Stack
+<div align="center">
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
