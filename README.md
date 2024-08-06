@@ -1,4 +1,4 @@
-  # 👋 Hi, I’m Yaqi Fang 
+  # 👋 Hi, I’m Yaqi (Christina) Fang 
 
   ## About Me
   - 💻 Software Engineer with over 1000 hours of pair programming and developing experience
